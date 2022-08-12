@@ -76,4 +76,8 @@ Dicho esto, ¡Todo PR es bienvenido! :)
 ## Vim/Nvim
   ### Introducción a Vim 
   * [Vim-genius](http://www.vimgenius.com/) Herramienta interactiva aprender comandos de Vim. Ideal para principiantes (¡y no tan principiantes!).
+ 
+## English for development 
+    ###Podcast 
+    * HTML All The Things (https://www.htmlallthethings.com/landing/podcast) In this podcast Everybody could practice your English listening while works. Learn, improve & add new vocabulary in your conversations. Enjoy it and just repeat! 
 
